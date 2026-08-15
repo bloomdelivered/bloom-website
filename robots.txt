@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://blooooooom.netlify.app/sitemap.xml
